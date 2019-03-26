@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1553608425 source:c:\users\alumno\desktop\videoyoutube\utn.c
+
+1553608441 source:c:\users\alumno\desktop\videoyoutube\main.c
+	<stdio.h>
+	<stdlib.h>
+
